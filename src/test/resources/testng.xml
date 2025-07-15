@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="MyTestSuite">
+    <test name="TestNGTests">
+        <classes>
+            <class name="selenium.FlujoCompraHappyPath.CP01ValidarFlujoCompraHappyPath"/>
+            <class name="selenium.FlujoCompraHappyPath.CP02ValidateLoginPageWrongLogin"/>
+        </classes>
+    </test>
+</suite>
