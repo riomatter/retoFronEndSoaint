@@ -21,7 +21,7 @@ Este proyecto está desarrollado en Java utilizando **Selenium WebDriver**, **Cu
 1. **Clona el repositorio:**
 
 ```bash
-git clone https://github.com/riomatter/retoFronEndSoaint.git
+git clone https://github.com/riomatter/retoFrontEndSoaint.git
 ```
 
 2. **Importa el proyecto como un proyecto Maven en IntelliJ IDEA.**
